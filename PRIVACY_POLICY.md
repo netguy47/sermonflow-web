@@ -2,15 +2,11 @@
 
 **Effective date: 22 October 2026**
 
-**Published by:** `TODO-USER — insert the full legal name of the entity that publishes this app` (the "Company")
-**Governing jurisdiction:** `TODO-USER — insert the governing law jurisdiction, e.g. "the laws of the State of X, without regard to its conflict of law provisions"`
-**Contact address for privacy requests:** `TODO-USER — insert a monitored email address, e.g. privacy@yourdomain.com`
-**Support address:** `TODO-USER — insert a monitored support email address`
+**Published by:** Donald Woods (the "Company")
+**Governing jurisdiction:** the laws of the State of Missouri, United States, without regard to its conflict of law provisions
+**Contact address for privacy requests:** donaldwoods@live.com
+**Support address:** donaldwoods@live.com
 **App:** Sermon Flow for iOS (bundle identifier `com.donwoods.Sermon-Flow`), and the Sermon Flow Home Screen widget.
-
-> **Before publishing:** replace every `TODO-USER` marker. Apple rejects a submission whose privacy
-> policy URL does not resolve, and a policy naming no responsible entity is not a publishable
-> document. No other change is required — the text below already describes the app as it is built.
 
 ---
 
@@ -32,10 +28,9 @@ relationship.
 
 ## 2. Who We Are
 
-Sermon Flow is published by `TODO-USER — legal entity name`, a `TODO-USER — entity type, e.g. sole proprietorship / limited company`
-registered in `TODO-USER — jurisdiction of registration` ("Sermon Flow", "we", "us"). Our contact
-details are at the end of this policy. If you are in the EEA or the UK, `TODO-USER — insert the name of
-the EU/UK representative if one is appointed, or delete this sentence if none is required`.
+Sermon Flow is published by Donald Woods, a sole proprietorship
+registered in State of Missouri, United States ("Sermon Flow", "we", "us"). Our contact
+details are at the end of this policy. If you are in the EEA or the UK, no separate EEA/UK representative is required or appointed; please contact donaldwoods@live.com directly.
 
 ## 3. What the App Does and What It Stores
 
@@ -217,7 +212,7 @@ In practice, for this app:
 
 - **Access and export.** Your notes are yours and you can read them, copy them, and export them at any time from the app itself — the note list shows the full text of every note. Because we hold no identity information for you, we can only answer an access request by working from the anonymous account identifier, and cannot map that identifier to a person.
 - **Correction.** Edit or update a note at any time by opening it from the timeline and saving your changes.
-- **Deletion.** You can delete any note yourself, at any time, from the app: open the note and choose **Delete Note**, or swipe the note in the timeline and choose **Delete**. This removes the note from cloud storage and from this device immediately, including when the app is on the free tier and the five-note limit is reached — the limit restricts new notes, never deletion. Deleting a note also removes any Monday reminder attached to it. If you want your remaining notes deleted from cloud storage in bulk, email us at `TODO-USER — privacy contact address` from the device on which the notes were created, with the anonymous account identifier so we can find the right records, and we will delete them. We respond to verified deletion requests within a reasonable period and in any case within the period required by applicable law. If you simply delete the app, we have no way to identify your notes, because we deliberately do not collect information that would let us do so. If you would like deletion as a matter of routine rather than by request, we recommend exporting anything you want to keep before uninstalling.
+- **Deletion.** You can delete any note yourself, at any time, from the app: open the note and choose **Delete Note**, or swipe the note in the timeline and choose **Delete**. This removes the note from cloud storage and from this device immediately, including when the app is on the free tier and the five-note limit is reached — the limit restricts new notes, never deletion. Deleting a note also removes any Monday reminder attached to it. If you want your remaining notes deleted from cloud storage in bulk, email us at donaldwoods@live.com from the device on which the notes were created, with the anonymous account identifier so we can find the right records, and we will delete them. We respond to verified deletion requests within a reasonable period and in any case within the period required by applicable law. If you simply delete the app, we have no way to identify your notes, because we deliberately do not collect information that would let us do so. If you would like deletion as a matter of routine rather than by request, we recommend exporting anything you want to keep before uninstalling.
 - **Consent and withdrawal.** Where we rely on consent (for example, notification permission, or your choice to use the AI drafting feature), you can withdraw it at any time in iOS Settings, or simply by not using the drafting feature.
 - **Complaints.** If you are unhappy with how we have handled your data, you can complain to us at the contact address below, and you may also complain to your local data protection authority.
 
@@ -241,7 +236,7 @@ religion preparing sermons, who are ordinarily 18 or older. The app is **not dir
 under 13**, and we do not knowingly collect personal information from children under 13.
 
 If you are a parent or guardian and you believe a child under 13 has created notes using this app,
-contact us at `TODO-USER — privacy contact address` and we will delete those notes. Because
+contact us at donaldwoods@live.com and we will delete those notes. Because
 authentication is anonymous and we do not collect identifying information, we can act on such a
 request once it is verified from the device in question.
 
@@ -276,10 +271,10 @@ email. Continued use of the app after a change means you accept the updated poli
 
 ## 16. Contact Us
 
-- **Privacy questions and data rights requests:** `TODO-USER — privacy contact email address`
-- **Support:** `TODO-USER — support email address`
-- **Postal address:** `TODO-USER — postal address of the publishing entity`
+- **Privacy questions and data rights requests:** donaldwoods@live.com
+- **Support:** donaldwoods@live.com
+- **Postal address:** 2620 North Waterford Drive, Florissant, MO 63033, United States
 - **Effective date:** 22 October 2026
 
-Sermon Flow is published by `TODO-USER — legal entity name`, governed by the laws of
-`TODO-USER — jurisdiction`.
+Sermon Flow is published by Donald Woods, governed by the laws of
+the laws of the State of Missouri, United States, without regard to its conflict of law provisions.
