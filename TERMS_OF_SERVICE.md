@@ -2,13 +2,10 @@
 
 **Last updated: 21 October 2026**
 
-**Published by:** `TODO-USER — insert the full legal name of the entity that publishes this app` (the "Company", "we", "us")
-**Governing law and jurisdiction:** `TODO-USER — insert the governing law jurisdiction, e.g. "These Terms are governed by the laws of the State of X, without regard to its conflict of law provisions", and the exclusive venue, e.g. "the courts located in X"`
-**Contact address:** `TODO-USER — insert a monitored email address for legal notices and support`
+**Published by:** Donald Woods (the "Company", "we", "us")
+**Governing law and jurisdiction:** the state and federal courts located in St. Louis County, Missouri, United States
+**Contact address:** donaldwoods@live.com
 **App:** Sermon Flow for iOS, including the Sermon Flow Home Screen widget.
-
-> **Before publishing:** replace every `TODO-USER` marker. These Terms describe the app as it is
-> actually built — in particular, they do not promise features the app does not yet contain.
 
 ---
 
@@ -116,7 +113,7 @@ option.
   Pro until that period ends; cancelling does not entitle you to a refund of the remaining period.
 - **No charge after cancellation.** We do not charge you again once a cancellation has taken
   effect.
-- **Restoring.** If you reinstall the App on the same device, or move to a new device, your Pro entitlement normally restores automatically. If it does not, contact support at `TODO-USER — support email address` and we will help.
+- **Restoring.** If you reinstall the App on the same device, or move to a new device, your Pro entitlement normally restores automatically. If it does not, contact support at donaldwoods@live.com and we will help.
 
 ### 5.3 Refunds and billing
 
@@ -165,7 +162,7 @@ See the Privacy Policy for the complete description of our data handling.
 ### 6.4 Export
 
 You can copy your notes out of the App at any time, and we will provide your content in a commonly
-used, machine-readable format on reasonable request to `TODO-USER — support email address`. This
+used, machine-readable format on reasonable request to donaldwoods@live.com. This
 right does not apply to content that has been removed at your request or is otherwise no longer
 held by us.
 
@@ -215,9 +212,7 @@ inability to use, the App, however caused and even if the Company has been advis
 possibility of such damages.
 
 To the maximum extent permitted by law, the Company's total aggregate liability to you for all
-claims arising out of or relating to the App, in any twelve-month period, is limited to `TODO-USER
-— insert the liability cap, e.g. "the greater of the amount you paid the Company for the App in that
-period (excluding any App Store amounts paid to Apple) or USD 50"`.
+claims arising out of or relating to the App, in any twelve-month period, is limited to the greater of the amount you paid the Company for the App in the twelve (12) months preceding the claim (excluding any App Store fees retained by Apple) or USD 50.
 
 Nothing in these Terms limits or excludes liability for death or personal injury caused by
 negligence, for fraud or fraudulent misrepresentation, or for any other liability that cannot
@@ -242,7 +237,7 @@ mental health professional, or your local emergency services.
 
 The App bundles the World English Bible, a public-domain translation credited in the App. Other
 thirds may create content that infringes the rights of others. If you believe content in the App
-infringes your rights, contact us at `TODO-USER — support email address` with enough information
+infringes your rights, contact us at donaldwoods@live.com with enough information
 for us to act on it, and we will investigate and remove the material where appropriate.
 
 ## 13. Suspension and Termination
@@ -265,7 +260,7 @@ after the change takes effect means you accept the revised Terms.
 ## 15. Notices
 
 Notices from us to you relating to these Terms may be delivered by email to the address we hold, or
-by an in-app notice. Notices from you to us must be sent to `TODO-USER — contact email address`.
+by an in-app notice. Notices from you to us must be sent to donaldwoods@live.com.
 Notices are deemed received on the next business day after sending.
 
 ## 16. General
@@ -280,7 +275,7 @@ Notices are deemed received on the next business day after sending.
 
 ## 17. Contact Us
 
-- **Support and legal notices:** `TODO-USER — contact email address`
+- **Support and legal notices:** donaldwoods@live.com
 - **Privacy requests:** see the contact details in the Privacy Policy
-- **Publishing entity:** `TODO-USER — legal entity name`
-- **Governing law:** `TODO-USER — jurisdiction`
+- **Publishing entity:** Donald Woods
+- **Governing law:** the laws of the State of Missouri, United States, without regard to its conflict of law provisions
